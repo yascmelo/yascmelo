@@ -1,16 +1,16 @@
-### Hi there 👋
+### Seja bem-vindo(a) ao meu perfil💙
 
-<!--
-**yascmelo/yascmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Yasmin Melo
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou aprendendo a desenvolver e programar em JavaScript;
+- Uso o github para organização e compartilhamento de projeto;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode estar entrando em contato comigo através do email📧
+
+ymelo2006@gmail.com
+
+@yascmelo
+
+![](https://media1.tenor.com/m/vcdlaZPcQ7UAAAAC/young-sheldon-boy.gif)
+
