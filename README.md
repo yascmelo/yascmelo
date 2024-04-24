@@ -2,7 +2,7 @@
 
 Meu nome é Yasmin Melo
 
-- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou estudando na [Alura](https://www.alura.com.br);
 - Estou aprendendo a desenvolver e programar em JavaScript;
 - Uso o github para organização e compartilhamento de projeto;
 
